@@ -8,3 +8,6 @@ NSMT (네이버 통계적 기계번역기 엔진) 을 사용한 Papago 서비스
 A. 한도가 없기에 마음 놓고 번역 할 수 있습니다.
 ### Q. 어떻게 작동하나요?
 A. 무제한 파파고 API를 사용하는 타 사이트의 API를 사용했습니다.
+## 사용 방법
+Wiki 페이지를 확인하세요!
+https://github.com/nicknamekr/NSMTapi/wiki/%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95
